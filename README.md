@@ -1,2 +1,3 @@
 # dreamcenter.github.io
 维护中...
+[前往](https://dreamcenter.github.io/)
